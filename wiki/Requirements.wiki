@@ -1,0 +1,1 @@
+This software requires IOProxyVideoFamily (also hosted at Google Code) to be installed before use.
