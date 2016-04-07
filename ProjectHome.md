@@ -1,0 +1,1 @@
+Satellite Displays integrates with (read: requires) [IOProxyVideoFamily](http://code.google.com/p/ioproxyvideofamily/) and allows a computer on a network to act as a secondary display.
